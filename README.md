@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning frontend dev.
+- 🌱 I’m currently learning frontend developer.
 - 📫 Gmail:nikhilcr8504@gmail.com
 
 <!---
